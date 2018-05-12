@@ -1,0 +1,33 @@
+_repo: The-Door-Through-Space_19726
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19726-h/images/cover1_tb.jpg
+creator:
+  author:
+    agent_name: Bradley, Marion Zimmer
+    birthdate: 1930
+    deathdate: 1999
+    gutenberg_agent_id: '8842'
+    url: http://www.gutenberg.org/2009/agents/8842
+    wikipedia: http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+description: 'The planet Wolf: a deadly world under a cold red sun, old when Terrans
+  were learning to walk upright. Only one Terran agent knew Wolf well enough to pass
+  undetected, but he had ruined his usefulness long ago. Now, only this scarred and
+  bitter man can discover the secret of The Door Through Space.'
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2006-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Door Through Space
+url: http://www.gutenberg.org/ebooks/19726
